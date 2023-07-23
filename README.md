@@ -33,6 +33,6 @@ Docker: Install Docker on your machine to build and run the container.
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
 
 Feel free to contribute or report issues if you encounter any problems while using the script.
