@@ -7,7 +7,7 @@ This repository contains a Python script for checking abuse contacts for IP addr
 1. Clone the repository:
 
 
-git clone https://github.com/ggunay/abuse-checker.git
+git clone https://github.com/ggunay/abuse-check.git
    cd abuse-checker
 Build the Docker image:
 
